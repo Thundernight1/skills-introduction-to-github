@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: GitHub Skills Discussions
+    url: https://github.com/orgs/skills/discussions
+    about: Join the community discussion board for help and questions
+  - name: GitHub Documentation
+    url: https://docs.github.com
+    about: Browse the official GitHub documentation
+  - name: GitHub Status
+    url: https://www.githubstatus.com
+    about: Check GitHub's current status
